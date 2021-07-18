@@ -1,5 +1,5 @@
 {
-    "name": "laz_website",
+    "name": "tailwind_template",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,8 +8,8 @@
         "build": "postcss css/styles.css -o build/styles.css"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "author": "Waseem Aslam",
+    "license": "MIT",
     "devDependencies": {
         "autoprefixer": "^10.2.5",
         "postcss-cli": "^8.3.1",
